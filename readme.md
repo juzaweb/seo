@@ -1,5 +1,3 @@
-#### Seo
+## Seo Juza CMS Plugin
 * Features:
-- [x] Auto render Sitemap
 - [x] Seo content custom
-- [x] Feed
